@@ -1,0 +1,22 @@
+{
+  "name": "asociacion-patitas",
+  "version": "1.0.0",
+  "description": "Web oficial de la asociacion patitas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "asociacion",
+    "albergue",
+    "ong",
+    "animales",
+    "patitas"
+  ],
+  "author": "asociacion-patitas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
